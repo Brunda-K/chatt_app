@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249045017802",
+    "project_id": "chitchat-8257f",
+    "storage_bucket": "chitchat-8257f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249045017802:android:74d78e969e15dfa274c033",
+        "android_client_info": {
+          "package_name": "com.Brunda.chatt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249045017802-1rvn5qtbeoli0k7a38kgd4caoucfq4es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOxCNwUxTP5JSV4vHIZBF8rECzyfIxs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249045017802-1rvn5qtbeoli0k7a38kgd4caoucfq4es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
